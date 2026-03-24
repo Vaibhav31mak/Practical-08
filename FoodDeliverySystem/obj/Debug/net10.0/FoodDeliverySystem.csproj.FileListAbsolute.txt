@@ -1,0 +1,15 @@
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\bin\Debug\net10.0\FoodDeliverySystem.exe
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\bin\Debug\net10.0\FoodDeliverySystem.deps.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\bin\Debug\net10.0\FoodDeliverySystem.runtimeconfig.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\bin\Debug\net10.0\FoodDeliverySystem.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\bin\Debug\net10.0\FoodDeliverySystem.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.AssemblyInfoInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.AssemblyInfo.cs
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.sourcelink.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\refint\FoodDeliverySystem.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\FoodDeliverySystem.genruntimeconfig.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-08\FoodDeliverySystem\obj\Debug\net10.0\ref\FoodDeliverySystem.dll

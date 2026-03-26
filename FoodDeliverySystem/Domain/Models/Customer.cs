@@ -6,8 +6,11 @@ public class Customer(string fullName, Address location, bool isPremium) : User(
     public bool IsPremium { get; } = isPremium;
 
     // Method Overriding
-    public override string GetRoleDescription()
-    {
-        return IsPremium ? "Premium Customer" : "Standard Customer";
-    }
+    /// <summary>
+    /// Using arrow function returns the type of customer either Premium or the standard Customer.
+    /// Return Type: string.
+    /// </summary>
+    /// <returns></returns>
+    public override string GetRoleDescription() => IsPremium ? "Premium Customer" : "Standard Customer";
+
 }

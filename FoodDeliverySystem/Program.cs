@@ -37,3 +37,5 @@ catch (Exception ex)
 {
     Console.WriteLine($"System Error: {ex.Message}");
 }
+
+Console.ReadKey();

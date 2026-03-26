@@ -1,6 +1,6 @@
 # 🍔 Food Delivery System (.NET 10 | Clean Architecture)
 
-A console-based **Food Delivery System** built using **.NET 10 and C# 14**, designed to demonstrate strong **OOP principles, SOLID design**, and modern C# features like **Records** and **Primary Constructors**.
+A console-based **Food Delivery System** built using **.NET 10 and C# 14**, designed to demonstrate strong **OOP principles, SOLID design**, and modern C# features like **Records**, **Primary Constructors**, **Arrow functions**, **Switch Expressions**, **Method Summaries**, **Advanced collections** and **Custom Exceptions** with proper understandable comments.
 
 ---
 
